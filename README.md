@@ -5,6 +5,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 - [Essentials](#essentials)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+- [Tools and IDE](#tools)
  
 ## Essentials
 * [Official Project Site](http://chapel.cray.com/)
@@ -30,6 +31,8 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [An Introduction to Chapel: Cray Cascade's High-Productivity Language](https://www.youtube.com/watch?v=1TkxzFno_WQ)
 * [Making HPC programming more accessible](https://www.youtube.com/watch?v=cryzleEzgGM)
 
+## Tools
+* [Chapel language support in Atom](https://github.com/fsouza/language-chapel)
 ## Contributing
 
 Found an awesome code, blog, video etc.? Send me a pull request!
