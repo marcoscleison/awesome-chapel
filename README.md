@@ -33,6 +33,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 
 ## Tools
 * [Chapel language support in Atom](https://github.com/fsouza/language-chapel)
+
 ## Contributing
 
 Found an awesome code, blog, video etc.? Send me a pull request!
