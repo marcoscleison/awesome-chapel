@@ -26,7 +26,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [AcuStat -Chapel Programing Tutorial 1 - Install with Helloworld](https://www.youtube.com/watch?v=nmZj9h8BiDQ)
 * [Chapel: Productive, Multiresolution Parallel Programming | Brad Chamberlain, Cray, Inc.](https://www.youtube.com/watch?v=0GBo_w2FO9c)
 * [Multiresolution Parallel Programming with Chapel](https://www.youtube.com/watch?v=-74NWG8OBeQ)
-* (Multiresolution Global-View Programming in Chapel | Brad Chamberlain, Cray Inc.)[https://www.youtube.com/watch?v=7wILYQN-mXw]
+* [Multiresolution Global-View Programming in Chapel | Brad Chamberlain, Cray Inc.](https://www.youtube.com/watch?v=7wILYQN-mXw)
 * [An Introduction to Chapel: Cray Cascade's High-Productivity Language](https://www.youtube.com/watch?v=1TkxzFno_WQ)
 * [Making HPC programming more accessible](https://www.youtube.com/watch?v=cryzleEzgGM)
 
