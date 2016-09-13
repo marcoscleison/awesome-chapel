@@ -16,11 +16,11 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 
 
 ## Tutorials
-[Learn Chapel in Y Minutes](https://learnxinyminutes.com/docs/chapel/)
+* [Learn Chapel in Y Minutes](https://learnxinyminutes.com/docs/chapel/)
+* [Chapel Primers](https://github.com/chapel-lang/chapel/tree/master/test/release/examples/primers)
 
 ## Videos
 * [Youtube Channel](https://www.youtube.com/channel/UCHmm27bYjhknK5mU7ZzPGsQ)
-* 
 
 ## Contributing
 
