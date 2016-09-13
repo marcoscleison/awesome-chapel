@@ -33,6 +33,10 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 
 ## Tools
 * [Chapel language support in Atom](https://github.com/fsouza/language-chapel)
+* [chapel.vim](https://github.com/chapel-lang/chapel/tree/master/highlight/vim)
+* [Chapel emacs mode](https://github.com/chapel-lang/chapel/tree/master/highlight/emacs)
+* [chpldoc - Chapel code documentation tool](http://chapel.cray.com/docs/latest/tools/chpldoc/chpldoc.html)
+* [chplvis - Communication debug tool](http://chapel.cray.com/docs/latest/tools/chplvis/chplvis.html)
 
 ## Contributing
 
