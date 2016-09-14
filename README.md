@@ -11,6 +11,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 ## Essentials
 * [Official Project Site](http://chapel.cray.com/)
 * [Chapel Documentation](http://chapel.cray.com/docs/latest/)
+* [Man Page](http://chapel.cray.com/docs/latest/usingchapel/man.html)
 * [Quick Reference](http://chapel.cray.com/docs/latest/_downloads/quickReference.pdf)
 * [Language Specification](http://chapel.cray.com/docs/latest/_downloads/chapelLanguageSpec.pdf)
 * [Standard Modules](http://chapel.cray.com/docs/latest/modules/modules.html)
@@ -35,10 +36,10 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 ## Tools
 * [Chapel language support in Atom](https://github.com/fsouza/language-chapel)
 * [Chapel language support in Visual Studio Code \(Alpha Version\)](https://github.com/marcoscleison/chapel-vscode)
-* [chapel.vim](https://github.com/chapel-lang/chapel/tree/master/highlight/vim)
-* [Chapel emacs mode](https://github.com/chapel-lang/chapel/tree/master/highlight/emacs)
-* [chpldoc - Chapel code documentation tool](http://chapel.cray.com/docs/latest/tools/chpldoc/chpldoc.html)
-* [chplvis - Communication debug tool](http://chapel.cray.com/docs/latest/tools/chplvis/chplvis.html)
+* [Chapel language support in Vim](https://github.com/chapel-lang/chapel/tree/master/highlight/vim)
+* [Chapel language support in Emacs](https://github.com/chapel-lang/chapel/tree/master/highlight/emacs)
+* [chpldoc: Chapel code documentation tool](http://chapel.cray.com/docs/latest/tools/chpldoc/chpldoc.html)
+* [chplvis: Chapel communication debug tool](http://chapel.cray.com/docs/latest/tools/chplvis/chplvis.html)
 
 ### Benchmark and Performance
 * [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/u64q/chapel.html)
