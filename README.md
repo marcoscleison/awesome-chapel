@@ -40,6 +40,10 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [chpldoc - Chapel code documentation tool](http://chapel.cray.com/docs/latest/tools/chpldoc/chpldoc.html)
 * [chplvis - Communication debug tool](http://chapel.cray.com/docs/latest/tools/chplvis/chplvis.html)
 
+### Benchmark and Performance
+* [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/u64q/chapel.html)
+* [The Computer Language Benchmarks Game Sources](https://github.com/chapel-lang/chapel/blob/master/test/studies/shootout/submitted/README.md)
+
 ## Contributing
 
 Found an awesome code, blog, video etc.? Send me a pull request!
