@@ -24,14 +24,10 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Idioms and Patterns](https://github.com/chapel-lang/chapel/tree/master/test/release/examples/programs)
 
 ## Videos
+
 * [Youtube Channel](https://www.youtube.com/channel/UCHmm27bYjhknK5mU7ZzPGsQ)
-* [NWCPP - The Chapel Programming Language](https://www.youtube.com/watch?v=lo3a_b34zX0)
-* [AcuStat -Chapel Programing Tutorial 1 - Install with Helloworld](https://www.youtube.com/watch?v=nmZj9h8BiDQ)
-* [Chapel: Productive, Multiresolution Parallel Programming | Brad Chamberlain, Cray, Inc.](https://www.youtube.com/watch?v=0GBo_w2FO9c)
-* [Multiresolution Parallel Programming with Chapel](https://www.youtube.com/watch?v=-74NWG8OBeQ)
-* [Multiresolution Global-View Programming in Chapel | Brad Chamberlain, Cray Inc.](https://www.youtube.com/watch?v=7wILYQN-mXw)
-* [An Introduction to Chapel: Cray Cascade's High-Productivity Language](https://www.youtube.com/watch?v=1TkxzFno_WQ)
-* [Making HPC programming more accessible](https://www.youtube.com/watch?v=cryzleEzgGM)
+* [Chapel Productive, Multiresolution Parallel Programming | Brad Chamberlain, Cray, Inc.](https://www.youtube.com/watch?v=0DjIdRJIqRY)
+* [CHIUW 2016 keynote: "Chapel in the (Cosmological) Wild", Nikhil Padmanabhan](https://www.youtube.com/watch?v=pnKLp0BTPks)
 
 ## Tools
 * [Chapel language support in Atom](https://github.com/fsouza/language-chapel)
