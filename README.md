@@ -23,6 +23,10 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Learn Chapel in Y Minutes](https://learnxinyminutes.com/docs/chapel/)
 * [Idioms and Patterns](https://github.com/chapel-lang/chapel/tree/master/test/release/examples/programs)
 
+## Chapel On Web
+* [Powerful and Productive Parallel Programming With Chapel: Building an Open-Source Language That Scales From Laptops to Supercomputers](http://www.hostingadvice.com/blog/powerful-and-productive-parallel-programming-with-chapel/)
+
+
 ## Videos
 
 * [Youtube Channel](https://www.youtube.com/channel/UCHmm27bYjhknK5mU7ZzPGsQ)
