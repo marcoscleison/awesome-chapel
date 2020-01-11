@@ -19,7 +19,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 
 
 ## Tutorials
-* [Chapel Primers](https://chapel-lang.org/docs/master/index.html)
+* [Chapel Primers](https://chapel-lang.org/docs/master/primers/index.html)
 * [Learn Chapel in Y Minutes](https://learnxinyminutes.com/docs/chapel/)
 * [Idioms and Patterns](https://github.com/chapel-lang/chapel/tree/master/test/release/examples/programs)
 
@@ -38,8 +38,8 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Chapel language support in Visual Studio Code \(Alpha Version\)](https://github.com/marcoscleison/chapel-vscode)
 * [Chapel language support in Vim](https://github.com/chapel-lang/chapel/tree/master/highlight/vim)
 * [Chapel language support in Emacs](https://github.com/chapel-lang/chapel/tree/master/highlight/emacs)
-* [chpldoc: Chapel code documentation tool](http://chapel.cray.com/docs/latest/tools/chpldoc/chpldoc.html)
-* [chplvis: Chapel communication debug tool](http://chapel.cray.com/docs/latest/tools/chplvis/chplvis.html)
+* [chpldoc: Chapel code documentation tool](https://chapel-lang.org/docs/latest/tools/chpldoc/chpldoc.html)
+* [chplvis: Chapel communication debug tool](https://chapel-lang.org/docs/latest/tools/chplvis/chplvis.html)
 
 ### Benchmark and Performance
 * [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/u64q/chapel.html)
