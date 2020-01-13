@@ -9,17 +9,17 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 - [Tools and IDE](#tools)
  
 ## Essentials
-* [Official Project Site](http://chapel.cray.com/)
-* [Chapel Documentation](http://chapel.cray.com/docs/latest/)
-* [Man Page](http://chapel.cray.com/docs/latest/usingchapel/man.html)
-* [Quick Reference](http://chapel.cray.com/docs/latest/_downloads/quickReference.pdf)
-* [Language Specification](http://chapel.cray.com/docs/latest/_downloads/chapelLanguageSpec.pdf)
-* [Standard Modules](http://chapel.cray.com/docs/latest/modules/modules.html)
-* [Package Modules](http://chapel.cray.com/docs/latest/modules/packages.html)
+* [Official Project Site](https://chapel-lang.org/)
+* [Chapel Documentation](https://chapel-lang.org/docs/latest/)
+* [Man Page](https://chapel-lang.org/docs/latest/usingchapel/man.html)
+* [Quick Reference](https://chapel-lang.org/docs/latest/_downloads/quickReference.pdf)
+* [Language Specification](https://chapel-lang.org/docs/latest/_downloads/chapelLanguageSpec.pdf)
+* [Standard Modules](https://chapel-lang.org/docs/modules/standard.html)
+* [Package Modules](https://chapel-lang.org/docs/latest/modules/packages.html)
 
 
 ## Tutorials
-* [Chapel Primers](http://chapel.cray.com/docs/master/primers/primers.html)
+* [Chapel Primers](https://chapel-lang.org/docs/master/primers/index.html)
 * [Learn Chapel in Y Minutes](https://learnxinyminutes.com/docs/chapel/)
 * [Idioms and Patterns](https://github.com/chapel-lang/chapel/tree/master/test/release/examples/programs)
 
@@ -38,13 +38,13 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Chapel language support in Visual Studio Code \(Alpha Version\)](https://github.com/marcoscleison/chapel-vscode)
 * [Chapel language support in Vim](https://github.com/chapel-lang/chapel/tree/master/highlight/vim)
 * [Chapel language support in Emacs](https://github.com/chapel-lang/chapel/tree/master/highlight/emacs)
-* [chpldoc: Chapel code documentation tool](http://chapel.cray.com/docs/latest/tools/chpldoc/chpldoc.html)
-* [chplvis: Chapel communication debug tool](http://chapel.cray.com/docs/latest/tools/chplvis/chplvis.html)
+* [chpldoc: Chapel code documentation tool](https://chapel-lang.org/docs/latest/tools/chpldoc/chpldoc.html)
+* [chplvis: Chapel communication debug tool](https://chapel-lang.org/docs/latest/tools/chplvis/chplvis.html)
 
 ### Benchmark and Performance
 * [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/u64q/chapel.html)
 * [The Computer Language Benchmarks Game Sources](https://github.com/chapel-lang/chapel/blob/master/test/studies/shootout/submitted/README.md)
-* [Chapel Developers Performance Tracking](http://chapel.sourceforge.net/perf/)
+* [Chapel Developers Performance Tracking](https://chapel-lang.org/perf/)
 
 ## Contributing
 
